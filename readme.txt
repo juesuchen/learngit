@@ -18,3 +18,9 @@ Creating a new branch is quick and simple.
 add new branch.
 
 fix issure 101
+
+me add to dev.
+doing something
+
+a bug need to fix.
+
